@@ -1,0 +1,16 @@
+{
+	"mappings":
+	{
+		"com.epam.e3s.app.dfu.api.data.DfuEntity" : 
+		[ 
+	        {
+	            "path" : "comments",
+	            "uid" : "date"
+	        },
+			{
+	            "path" : "discussIssues",
+	            "uid" : "issue"
+	        }
+		]
+	}
+}

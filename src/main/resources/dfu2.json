@@ -1,0 +1,204 @@
+{
+	"_e3sId": "42a2d91c-a006-4c0b-9150-c893972f2b90",
+	"_e3sCreated": 1473849322906,
+	"_e3sUpdated": 1473851913274,
+	"_e3sAttributes": {
+		"_e3sNode": "EPRUSARW0818"
+	},
+	"_e3sExtensions": {
+		
+	},
+	"_e3sVersion": 0,
+	"sourceIds": ["0e7adabf-eb7b-4188-9642-2bb43c418344"],
+	"keys": [{
+		"id": "4060741400007793650",
+		"type": "origEmployeeId",
+		"fullKey": "origEmployeeId/4060741400007793650"
+	},
+	{
+		"id": "4000741400003527583",
+		"type": "origOwnerId",
+		"fullKey": "origOwnerId/4000741400003527583"
+	},
+	{
+		"id": "4060741400008893149",
+		"type": "upsaId",
+		"fullKey": "upsaId/4060741400008893149"
+	},
+	{
+		"id": "4060741400007793650",
+		"type": "employeeId",
+		"fullKey": "employeeId/4060741400007793650"
+	},
+	{
+		"id": "4000741400003527583",
+		"type": "ownerId",
+		"fullKey": "ownerId/4000741400003527583"
+	}],
+	"subject": "Post-transfer introductory talk",
+	"coveredTopics": ["Post-transfer introductory talk"],
+	"dateOfConduct": 1412035200000,
+	"creationDate": 1412035200000,
+	"changeDate": 1473852702720,
+	"conductDate": "2014-09-30",
+	"initiator": null,
+	"owner": "Ilya Pritula",
+	"ownerTitle": "Software Testing Team Leader",
+	"employee": "Anna Shvetc",
+	"state": "Updated",
+	"agenda": null,
+	"summary": "Summary673",
+	"summaryIsEmpty": false,
+	"comments": null,
+	"commentsIsEmpty": true,
+	"rules": [{
+		"id": "Russia",
+		"type": "OnboardingByCountry",
+		"fullKey": "OnboardingByCountry/Russia"
+	},
+	{
+		"id": "Saint-Petersburg",
+		"type": "OnboardingByCity",
+		"fullKey": "OnboardingByCity/Saint-Petersburg"
+	},
+	{
+		"id": "High,Russia",
+		"type": "RetentionByCountry",
+		"fullKey": "RetentionByCountry/High,Russia"
+	},
+	{
+		"id": "High,Russia",
+		"type": "ExitInterviewByCountry",
+		"fullKey": "ExitInterviewByCountry/High,Russia"
+	},
+	{
+		"id": "High",
+		"type": "RetentionGlobal",
+		"fullKey": "RetentionGlobal/High"
+	},
+	{
+		"id": "Anna Shvetc",
+		"type": "FeedbackReviewer",
+		"fullKey": "FeedbackReviewer/Anna Shvetc"
+	}],
+	"potential": "Low",
+	"leavingRisk": "High",
+	"contribution": "Occasional",
+	"leavingImpact": "No Impact",
+	"latestActivity": "6+ months",
+	"latest": true,
+	"latestRiskTrend": "Increased",
+	"jobOfferMade": null,
+	"company": null,
+	"proposedPosition": null,
+	"commonType": "HR-1-to-1",
+	"isRetain": null,
+	"performanceMark": null,
+	"agreementsDecisions": null,
+	"privateComment": null,
+	"viewers": ["Arkadiy Dobkin",
+	"Marianna Okrugina",
+	"Artem Torosyan",
+	"Andrey Kaganovich",
+	"Sergey Yezhkov",
+	"Ilya Pritula"],
+	"deleted": false,
+	"createdInE3s": false,
+	"coveredTopicsOther": null,
+	"leavingReasons": [
+		"Customer",
+		"Can not apply my skills",
+		"Company processes and/or policies",
+		"Not started",
+		"Maternity Leave",
+		"Uncontrollable reasons:Other"
+	],
+	"discussIssues": [{
+		"issue": "Customer",
+		"primary": false,
+		"comment": null
+	},
+	{
+		"issue": "Impossibility to work with customer directly",
+		"primary": false,
+		"comment": null
+	},
+	{
+		"issue": "Stressful customer",
+		"primary": false,
+		"comment": null
+	},
+	{
+		"issue": "Unclear requirements and deadlines from customer's side",
+		"primary": false,
+		"comment": null
+	},
+	{
+		"issue": "Customer:Other",
+		"primary": false,
+		"comment": null
+	},
+	{
+		"issue": "Can not apply my skills",
+		"primary": false,
+		"comment": "IssueComment"
+	},
+	{
+		"issue": "Bench longer than expected",
+		"primary": false,
+		"comment": null
+	},
+	{
+		"issue": "Can not apply my skills:Other",
+		"primary": false,
+		"comment": null
+	},
+	{
+		"issue": "Company processes and/or policies",
+		"primary": false,
+		"comment": null
+	},
+	{
+		"issue": "Not started",
+		"primary": true,
+		"comment": "PrimaryIssueComment"
+	},
+	{
+		"issue": "Accepted JO, agreed upon the first working day, but didn't come to work (without or with explanation of the reasons)",
+		"primary": false,
+		"comment": null
+	},
+	{
+		"issue": "Worked less than 1 week",
+		"primary": false,
+		"comment": null
+	},
+	{
+		"issue": "Not started:Other",
+		"primary": false,
+		"comment": null
+	},
+	{
+		"issue": "Maternity Leave",
+		"primary": false,
+		"comment": "IssueComment"
+	},
+	{
+		"issue": "Uncontrollable reasons:Other",
+		"primary": false,
+		"comment": null
+	}],
+	"leavingReasonOther": null,
+	"country": "Russia",
+	"city": "Saint-Petersburg",
+	"unit": "Global Delivery / Russian Delivery Organization / Saint-Petersburg Branch Office / Software Engineering Group 9 / Software Testing",
+	"hrContact": null,
+	"manager": null,
+	"superior": null,
+	"seniority": null,
+	"jobFunction": "Testing",
+	"accessRestrictedTo": "Custom",
+	"campaign": null,
+	"title": "Senior Software Testing Engineer",
+	"dismissal": "None"
+}
